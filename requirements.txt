@@ -1,0 +1,8 @@
+# Core agent tools
+google-adk
+
+# UI
+streamlit
+
+# Environment variable support
+python-dotenv
