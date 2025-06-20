@@ -1,0 +1,9 @@
+# Python virtual env
+.venv/
+__pycache__/
+
+# Secret keys
+.env
+
+# Streamlit cache
+.streamlit/
